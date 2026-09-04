@@ -1,0 +1,16 @@
+# Fotogercekci asama (ayri venv onerilir): uv venv --python 3.12 .venv && uv pip install -r requirements-photoreal.txt
+torch
+torchvision
+diffusers>=0.30
+transformers
+accelerate
+safetensors
+spandrel
+opencv-python-headless
+facexlib
+lpips
+huggingface_hub[cli]
+numpy
+scipy
+pillow
+psutil

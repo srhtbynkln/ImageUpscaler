@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.venv/
+out/
+*.tif
+*.tiff
+*.jpg
+*.jpeg
+*.png
+!docs/*.png
+.DS_Store
+third_party/
+.venv/
+weights/
+MEMORY.md
+CONTEXT.md
